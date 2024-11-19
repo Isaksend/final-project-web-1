@@ -46,7 +46,7 @@
             </li>
             <li>
               <a :href="city.links.krisha || city.links.expedia" target="_blank" rel="noopener noreferrer">
-                Krisha.kz
+                Local platform
               </a>
             </li>
           </ul>

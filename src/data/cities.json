@@ -218,31 +218,515 @@
   {
     "id": 4,
     "name": "Berlin, GER",
-    "image": "https://i.postimg.cc/y6FM21YC/berlin-img-1.png"
+    "fullname": "Berlin, Germany",
+    "image": "https://i.postimg.cc/y6FM21YC/berlin-img-1.png",
+    "head_image": "https://i.postimg.cc/QCkR235b/berlin-head-img.jpg",
+    "activities": [
+      { "id": 1, "name": "Brandenburg Gate", "price": "Free entry" },
+      { "id": 2, "name": "Berlin Wall Memorial", "price": "Free entry" },
+      { "id": 3, "name": "Museum Island", "price": "Around $10" },
+      { "id": 4, "name": "Reichstag Building", "price": "Free entry; registration required" },
+      { "id": 5, "name": "Tiergarten", "price": "Free entry" },
+      { "id": 6, "name": "East Side Gallery", "price": "Free entry" },
+      { "id": 7, "name": "Charlottenburg Palace", "price": "Approximately $15" },
+      { "id": 8, "name": "Pergamon Museum", "price": "Around $13" },
+      { "id": 9, "name": "Checkpoint Charlie Museum", "price": "Approximately $14" },
+      { "id": 10, "name": "Berlin Zoo", "price": "Tickets start at $17" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "Hotel Adlon Kempinski", "price": "Approximately $350 per night" },
+      { "id": 2, "name": "Scandic Berlin Potsdamer Platz", "price": "Around $120 per night" },
+      { "id": 3, "name": "The Circus Hostel", "price": "Approximately $95 per night" },
+      { "id": 4, "name": "NH Collection Berlin Mitte", "price": "Around $130 per night" },
+      { "id": 5, "name": "Generator Berlin Mitte", "price": "Approximately $50 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/jqQmdRw6/berlin-activity-1.jpg",
+      "https://i.postimg.cc/2S3KwvHT/image.png",
+      "https://i.postimg.cc/dVXSS1pF/image.png",
+      "https://i.postimg.cc/GthQpwVz/image.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/DwBx4c1B/berlin-accommodation-1.png",
+      "https://i.postimg.cc/tgcD2CS6/berlin-accommodation-2.png",
+      "https://i.postimg.cc/Hx7zKDRh/berling-accommodation-3.png",
+      "https://i.postimg.cc/d0342TBv/berlin-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/de/berlin.html",
+      "airbnb": "https://www.airbnb.com/berlin-de",
+      "krisha": "https://krisha.kz/berlin/"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "What is the iconic landmark in Berlin known for its historical significance?",
+          "options": ["Brandenburg Gate", "Eiffel Tower", "Big Ben", "Colosseum"],
+          "correct": "Brandenburg Gate"
+        },
+        {
+          "text": "Which Berlin site serves as a memorial to the Berlin Wall?",
+          "options": ["Berlin Wall Memorial", "Checkpoint Charlie", "Reichstag Building", "East Side Gallery"],
+          "correct": "Berlin Wall Memorial"
+        },
+        {
+          "text": "What is the approximate price to enter Charlottenburg Palace?",
+          "options": ["$10", "$15", "Free", "$20"],
+          "correct": "$15"
+        },
+        {
+          "text": "Which museum in Berlin is located on Museum Island?",
+          "options": ["Pergamon Museum", "Louvre", "British Museum", "Guggenheim Museum"],
+          "correct": "Pergamon Museum"
+        },
+        {
+          "text": "What is the largest park in Berlin known for its serene environment?",
+          "options": ["Tiergarten", "Central Park", "Hyde Park", "Golden Gate Park"],
+          "correct": "Tiergarten"
+        }
+      ]
+    }
   },
   {
     "id": 5,
     "name": "Paris, FRC",
-    "image": "https://i.postimg.cc/PrTgjgPp/paris-img-1.png"
+    "fullname": "Paris, France",
+    "image": "https://i.postimg.cc/PrTgjgPp/paris-img-1.png",
+    "head_image": "https://i.postimg.cc/2ypZQvJQ/paris-head-img.png",
+    "activities": [
+      { "id": 1, "name": "Eiffel Tower", "price": "Approximately $25" },
+      { "id": 2, "name": "Louvre Museum", "price": "Approximately $17" },
+      { "id": 3, "name": "Notre-Dame Cathedral", "price": "Free entry" },
+      { "id": 4, "name": "Montmartre and Sacré-Cœur", "price": "Free entry" },
+      { "id": 5, "name": "Champs-Élysées", "price": "Free entry" },
+      { "id": 6, "name": "Palace of Versailles", "price": "Approximately $22" },
+      { "id": 7, "name": "Musée d'Orsay", "price": "Approximately $16" },
+      { "id": 8, "name": "Seine River Cruise", "price": "Approximately $15" },
+      { "id": 9, "name": "Disneyland Paris", "price": "Approximately $70" },
+      { "id": 10, "name": "Luxembourg Gardens", "price": "Free entry" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "Hotel de Crillon", "price": "Approximately $1000 per night" },
+      { "id": 2, "name": "Hotel Lutetia", "price": "Approximately $800 per night" },
+      { "id": 3, "name": "Le Meurice", "price": "Approximately $950 per night" },
+      { "id": 4, "name": "Hotel du Louvre", "price": "Approximately $500 per night" },
+      { "id": 5, "name": "Generator Paris", "price": "Approximately $50 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/dV2YvTGh/paris-activity-1.png",
+      "https://i.postimg.cc/7YhY2VvH/paris-activity-2.png",
+      "https://i.postimg.cc/3wLMw0Ng/paris-activity-3.png",
+      "https://i.postimg.cc/VLPKphgd/paris-activity-4.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/2Sn5PLvs/paris-accommodation-1.png",
+      "https://i.postimg.cc/dQKK3tw9/paris-accommodation-2.png",
+      "https://i.postimg.cc/y6yPpz9r/paris-accommodation-3.png",
+      "https://i.postimg.cc/MGRmMr1X/paris-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/fr/paris.html",
+      "airbnb": "https://www.airbnb.com/paris-france",
+      "krisha": "https://krisha.kz/paris/"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "Which landmark in Paris is known as a global symbol of France?",
+          "options": ["Eiffel Tower", "Statue of Liberty", "Big Ben", "Colosseum"],
+          "correct": "Eiffel Tower"
+        },
+        {
+          "text": "What is the entry price for the Louvre Museum?",
+          "options": ["$15", "$17", "Free", "$25"],
+          "correct": "$17"
+        },
+        {
+          "text": "Which church is located on Montmartre hill?",
+          "options": ["Sacré-Cœur", "Notre-Dame Cathedral", "St. Paul's Cathedral", "St. Peter's Basilica"],
+          "correct": "Sacré-Cœur"
+        },
+        {
+          "text": "Which river flows through Paris?",
+          "options": ["Seine", "Thames", "Danube", "Rhine"],
+          "correct": "Seine"
+        },
+        {
+          "text": "Which theme park is located near Paris?",
+          "options": ["Disneyland Paris", "Universal Studios", "Europa-Park", "PortAventura"],
+          "correct": "Disneyland Paris"
+        }
+      ]
+    }
   },
   {
     "id": 6,
     "name": "Tokyo, JPN",
-    "image": "https://i.postimg.cc/MpGgc10z/tokyo-img-1.png"
+    "fullname": "Tokyo, Japan",
+    "image": "https://i.postimg.cc/MpGgc10z/tokyo-img-1.png",
+    "head_image": "https://i.postimg.cc/3xpyRgtr/tokyo-head-img.png",
+    "activities": [
+      { "id": 1, "name": "Tokyo Tower", "price": "Approximately $20" },
+      { "id": 2, "name": "Shibuya Crossing", "price": "Free entry" },
+      { "id": 3, "name": "Meiji Shrine", "price": "Free entry" },
+      { "id": 4, "name": "Ginza Shopping District", "price": "Free entry" },
+      { "id": 5, "name": "Akihabara Electric Town", "price": "Free entry" },
+      { "id": 6, "name": "Odaiba", "price": "Free entry" },
+      { "id": 7, "name": "Asakusa and Senso-ji Temple", "price": "Free entry" },
+      { "id": 8, "name": "Tokyo Skytree", "price": "Approximately $30" },
+      { "id": 9, "name": "Tsukiji Fish Market", "price": "Free entry" },
+      { "id": 10, "name": "Shinjuku Gyoen National Garden", "price": "Approximately $5" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "Park Hyatt Tokyo", "price": "Approximately $900 per night" },
+      { "id": 2, "name": "The Peninsula Tokyo", "price": "Approximately $700 per night" },
+      { "id": 3, "name": "Tokyo Hilton", "price": "Approximately $400 per night" },
+      { "id": 4, "name": "Shinjuku Granbell Hotel", "price": "Approximately $150 per night" },
+      { "id": 5, "name": "Capsule Hotel Tokyo", "price": "Approximately $30 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/wTF8qBPW/tokyo-activity-1.png",
+      "https://i.postimg.cc/W44jrzJK/tokyo-activity-2.png",
+      "https://i.postimg.cc/sf1FNN9T/tokyo-activity-3.png",
+      "https://i.postimg.cc/tgsZXJZr/tokyo-activity-4.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/4dFYd6nT/tokyo-accommodation-1.png",
+      "https://i.postimg.cc/8sRmrF1W/tokyo-accommodation-2.png",
+      "https://i.postimg.cc/bwTDkT8f/tokyo-accommodation-3.png",
+      "https://i.postimg.cc/8zzZ9VnV/tokyo-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/jp/tokyo.html",
+      "airbnb": "https://www.airbnb.com/tokyo-japan",
+      "krisha": "https://krisha.kz/tokyo/"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "What is the tallest structure in Tokyo?",
+          "options": ["Tokyo Skytree", "Tokyo Tower", "Empire State Building", "Burj Khalifa"],
+          "correct": "Tokyo Skytree"
+        },
+        {
+          "text": "Which shopping district is famous in Tokyo?",
+          "options": ["Ginza", "Shibuya", "Akihabara", "Harajuku"],
+          "correct": "Ginza"
+        },
+        {
+          "text": "What is the approximate cost of entering Tokyo Tower?",
+          "options": ["$10", "$15", "$20", "$30"],
+          "correct": "$20"
+        },
+        {
+          "text": "Which district in Tokyo is known for its anime and electronic shops?",
+          "options": ["Akihabara", "Ginza", "Roppongi", "Odaiba"],
+          "correct": "Akihabara"
+        },
+        {
+          "text": "What is a famous temple in Asakusa?",
+          "options": ["Senso-ji Temple", "Meiji Shrine", "Notre Dame", "St. Basil's Cathedral"],
+          "correct": "Senso-ji Temple"
+        }
+      ]
+    }
   },
   {
     "id": 7,
     "name": "Hong-Kong, CHN",
-    "image": "https://i.postimg.cc/yd0GqjKy/hong-kong-img-1.png"
-  },
+    "fullname": "Hong Kong, China",
+    "image": "https://i.postimg.cc/yd0GqjKy/hong-kong-img-1.png",
+    "head_image": "https://i.postimg.cc/TwRXhNpP/hong-kong-head-img.png",
+    "activities": [
+      { "id": 1, "name": "Victoria Peak", "price": "Approximately $10" },
+      { "id": 2, "name": "Star Ferry", "price": "Approximately $0.30 per ride" },
+      { "id": 3, "name": "Tian Tan Buddha", "price": "Free entry" },
+      { "id": 4, "name": "Ngong Ping 360 Cable Car", "price": "Approximately $25" },
+      { "id": 5, "name": "Hong Kong Disneyland", "price": "Tickets start at $80" },
+      { "id": 6, "name": "Ocean Park", "price": "Approximately $60" },
+      { "id": 7, "name": "Temple Street Night Market", "price": "Free entry; shopping prices vary" },
+      { "id": 8, "name": "Hong Kong Museum of History", "price": "Free entry" },
+      { "id": 9, "name": "Repulse Bay", "price": "Free entry" },
+      { "id": 10, "name": "Lantau Island", "price": "Free entry" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "The Peninsula Hong Kong", "price": "Approximately $500 per night" },
+      { "id": 2, "name": "Mandarin Oriental Hong Kong", "price": "Approximately $400 per night" },
+      { "id": 3, "name": "InterContinental Hong Kong", "price": "Approximately $350 per night" },
+      { "id": 4, "name": "YHA Mei Ho House", "price": "Approximately $60 per night" },
+      { "id": 5, "name": "Mini Hotel Causeway Bay", "price": "Approximately $40 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/Gt5kD1y2/hong-kong-activity-1.png",
+      "https://i.postimg.cc/L6RYP51F/hong-kong-activity-2.png",
+      "https://i.postimg.cc/3rC5kM6Q/hong-kong-activity-3.png",
+      "https://i.postimg.cc/9Q1zMjLf/hong-kong-activity-4.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/G2LnqZMj/hong-kong-accommodation-1.png",
+      "https://i.postimg.cc/KcBYTpFX/hong-kong-accommodation-2.png",
+      "https://i.postimg.cc/26kPL1h2/hong-kong-accommodation-3.png",
+      "https://i.postimg.cc/4dsJHjMk/hong-kong-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/hk/hong-kong.html",
+      "airbnb": "https://www.airbnb.com/hong-kong",
+      "krisha": "https://krisha.kz/hong-kong/"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "What is the name of Hong Kong's highest mountain offering panoramic views?",
+          "options": ["Victoria Peak", "Mount Fuji", "The Peak", "Ngong Ping"],
+          "correct": "Victoria Peak"
+        },
+        {
+          "text": "Which Hong Kong attraction features a massive outdoor bronze Buddha?",
+          "options": ["Tian Tan Buddha", "Great Wall of Buddha", "Lantau Buddha", "Big Buddha Temple"],
+          "correct": "Tian Tan Buddha"
+        },
+        {
+          "text": "How much does the Star Ferry ride approximately cost?",
+          "options": ["$0.30", "$5", "$2", "Free"],
+          "correct": "$0.30"
+        },
+        {
+          "text": "What is the entry cost to the Hong Kong Museum of History?",
+          "options": ["Free", "$5", "$10", "$15"],
+          "correct": "Free"
+        },
+        {
+          "text": "Which theme park in Hong Kong features marine life and roller coasters?",
+          "options": ["Ocean Park", "Disneyland", "Wild Adventure", "Sea World"],
+          "correct": "Ocean Park"
+        }
+      ]
+    }
+  }
+,
   {
     "id": 8,
     "name": "Singapore",
-    "image": "https://i.postimg.cc/kGchG5BV/singapore-img-1.png"
-  },
+    "fullname": "Singapore, Singapore",
+    "image": "https://i.postimg.cc/kGchG5BV/singapore-img-1.png",
+    "head_image": "https://i.postimg.cc/WbMwTyLq/singapore-head-img.png",
+    "activities": [
+      { "id": 1, "name": "Marina Bay Sands SkyPark", "price": "Approximately $25" },
+      { "id": 2, "name": "Gardens by the Bay", "price": "Approximately $20" },
+      { "id": 3, "name": "Sentosa Island", "price": "Entry starts at $3" },
+      { "id": 4, "name": "Singapore Zoo", "price": "Approximately $35" },
+      { "id": 5, "name": "Universal Studios Singapore", "price": "Tickets start at $75" },
+      { "id": 6, "name": "Merlion Park", "price": "Free entry" },
+      { "id": 7, "name": "Chinatown Heritage Centre", "price": "Approximately $10" },
+      { "id": 8, "name": "Little India", "price": "Free entry" },
+      { "id": 9, "name": "Clarke Quay", "price": "Free entry" },
+      { "id": 10, "name": "Botanic Gardens", "price": "Free entry" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "Marina Bay Sands", "price": "Approximately $400 per night" },
+      { "id": 2, "name": "Raffles Hotel Singapore", "price": "Approximately $700 per night" },
+      { "id": 3, "name": "Hotel Boss", "price": "Approximately $120 per night" },
+      { "id": 4, "name": "The Capsule Hotel", "price": "Approximately $50 per night" },
+      { "id": 5, "name": "Village Hotel Bugis", "price": "Approximately $150 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/8PrtnLVp/singapore-activity-1.png",
+      "https://i.postimg.cc/0N4xPWrq/singapore-activity-2.png",
+      "https://i.postimg.cc/LXh6b1TW/singapore-activity-3.png",
+      "https://i.postimg.cc/ZqBthpN4/singapore-activity-4.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/yYFsyfs4/singapore-accommodation-1.png",
+      "https://i.postimg.cc/0jMFhQpT/singapore-accommodation-2.png",
+      "https://i.postimg.cc/YCSXMKJh/singapore-accommodation-3.png",
+      "https://i.postimg.cc/sgLPXtJW/singapore-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/sg/singapore.html",
+      "airbnb": "https://www.airbnb.com/singapore",
+      "krisha": "https://krisha.kz/singapore/"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "What is the name of Singapore's iconic hotel with a rooftop infinity pool?",
+          "options": ["Marina Bay Sands", "Raffles Hotel", "Hotel Boss", "Village Hotel"],
+          "correct": "Marina Bay Sands"
+        },
+        {
+          "text": "Which park in Singapore features futuristic tree structures?",
+          "options": ["Gardens by the Bay", "Botanic Gardens", "Merlion Park", "East Coast Park"],
+          "correct": "Gardens by the Bay"
+        },
+        {
+          "text": "How much does entry to Sentosa Island start at?",
+          "options": ["$3", "$10", "Free", "$15"],
+          "correct": "$3"
+        },
+        {
+          "text": "Which Singapore attraction features a lion-shaped fountain?",
+          "options": ["Merlion Park", "Universal Studios", "Chinatown", "Little India"],
+          "correct": "Merlion Park"
+        },
+        {
+          "text": "Which Singapore attraction offers a thrilling theme park experience?",
+          "options": ["Universal Studios Singapore", "Gardens by the Bay", "Singapore Zoo", "Clarke Quay"],
+          "correct": "Universal Studios Singapore"
+        }
+      ]
+    }
+  }
+,
   {
     "id": 9,
     "name": "Almaty, KZ",
-    "image": "https://i.postimg.cc/dt5xKDbp/almaty-img-1.png"
+    "fullname": "Almaty, Kazakhstan",
+    "image": "https://i.postimg.cc/dt5xKDbp/almaty-img-1.png",
+    "head_image": "https://i.postimg.cc/Vks8MsV1/almaty-head-img.png",
+    "activities": [
+      {
+        "id": 1,
+        "name": "Medeu Ice Skating Rink",
+        "price": "Approximately $7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Medeu_Ice_Skating_Rink.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Shymbulak Ski Resort",
+        "price": "Tickets start at $25",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Shymbulak_Ski_Resort.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kok-Tobe Hill",
+        "price": "Approximately $10",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kok-Tobe_Hill.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Big Almaty Lake",
+        "price": "Free entry",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Big_Almaty_Lake.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Central State Museum",
+        "price": "Approximately $2",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Central_State_Museum_of_Kazakhstan.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Almaty Zoo",
+        "price": "Approximately $3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Almaty_Zoo.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Green Bazaar",
+        "price": "Free entry",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Green_Bazaar_Almaty.jpg"
+      },
+      {
+        "id": 8,
+        "name": "First President's Park",
+        "price": "Free entry",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/First_President%27s_Park_Almaty.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Panfilov Park & Zenkov Cathedral",
+        "price": "Free entry",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zenkov_Cathedral_Almaty.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Almaty Tower",
+        "price": "Approximately $5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Almaty_Tower.jpg"
+      }
+    ],
+    "accommodations": [
+      {
+        "id": 1,
+        "name": "Ritz-Carlton Almaty",
+        "price": "Approximately $350 per night",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ritz-Carlton_Almaty.jpg"
+      },
+      {
+        "id": 2,
+        "name": "InterContinental Almaty",
+        "price": "Approximately $250 per night",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/InterContinental_Almaty.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kazakhstan Hotel",
+        "price": "Approximately $100 per night",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kazakhstan_Hotel_Almaty.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Novotel Almaty City Center",
+        "price": "Approximately $80 per night",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Novotel_Almaty_City_Center.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Sky Hostel Almaty",
+        "price": "Approximately $15 per night",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sky_Hostel_Almaty.jpg"
+      }
+    ],
+    "activityPhotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/Medeu_Ice_Skating_Rink.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Shymbulak_Ski_Resort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kok-Tobe_Hill.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Big_Almaty_Lake.jpg"
+    ],
+    "accommodationPhotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ritz-Carlton_Almaty.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/InterContinental_Almaty.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kazakhstan_Hotel_Almaty.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Novotel_Almaty_City_Center.jpg"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/kz/almaty.html",
+      "airbnb": "https://www.airbnb.com/almaty-kazakhstan",
+      "krisha": "https://krisha.kz/almaty/"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "What is the name of the famous ice skating rink in Almaty?",
+          "options": [
+            "Medeu",
+            "Shymbulak",
+            "Kok-Tobe",
+            "Big Almaty Lake"
+          ],
+          "correct": "Medeu"
+        },
+        {
+          "text": "Which Almaty landmark offers a panoramic view of the city?",
+          "options": [
+            "Kok-Tobe Hill",
+            "Almaty Tower",
+            "Shymbulak",
+            "Panfilov Park"
+          ],
+          "correct": "Kok-Tobe Hill"
+        },
+        {
+          "text": "What is the approximate price of visiting the Central State Museum?",
+          "options": [
+            "2$",
+            "5$",
+            "15$",
+            "20$"
+          ],
+          "correct": "2$"
+        }
+      ]
+    }
   }
 ]
