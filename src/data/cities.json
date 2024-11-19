@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": "Astana, KZ",
+    "fullname": "Astana, Kazakhstan",
+    "image": "https://i.postimg.cc/ZRfTNJ9Q/astana-img-1.png",
+    "head_image": "https://i.postimg.cc/qRCtXmn0/astana-head-img.png",
+    "activities": [
+      { "id": 1, "name": "Bayterek Tower",  "price": "Approximately $2.50" },
+      { "id": 2, "name": "Palace of Peace and Reconciliation",  "price": "Around $3" },
+      { "id": 3, "name": "Khan Shatyr Entertainment Center",  "price": "Free entry; activity prices vary." },
+      { "id": 4, "name": "Hazret Sultan Mosque", "price": "Free entry" },
+      { "id": 5, "name": "National Museum of Kazakhstan", "price": "Approximately $3" },
+      { "id": 6, "name": "Astana Opera", "price": "Tickets start at $5" },
+      { "id": 7, "name": "Presidential Park", "price": "Free entry" },
+      { "id": 8, "name": "Nur-Astana Mosque", "price": "Free entry" },
+      { "id": 9, "name": "Atameken Ethno-Memorial Map of Kazakhstan", "price": "Around $2" },
+      { "id": 10, "name": "City Park (Central Park)","price": "Free entry" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "Inn OZZ Astana", "price": "Approximately $38 per night" },
+      { "id": 2, "name": "Ramada by Wyndham Astana", "price": "Around $81 per night" },
+      { "id": 3, "name": "NEOS HOTEL", "price": "Approximately $117 per night" },
+      { "id": 4, "name": "Holiday Inn Express - Astana", "price": "Around $120 per night" },
+      { "id": 5, "name": "Ohana Boutique", "price": "Approximately $14 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/4Nc5N5FD/astana-activity-1.png",
+      "https://i.postimg.cc/RZQLw0mG/astana-activity-2.png",
+      "https://i.postimg.cc/7ZDQFdYs/astana-activity-3.png",
+      "https://i.postimg.cc/tgBdmmYx/astana-activity-4.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/bJd0XHtF/astana-accommodation-1.png",
+      "https://i.postimg.cc/8kmvy09P/astana-accommodation-2.png",
+      "https://i.postimg.cc/hvd9vDML/astana-accommodation-3.png",
+      "https://i.postimg.cc/nVy45mc0/astana-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/kz/astana.html",
+      "airbnb": "https://www.airbnb.com/astana-kz",
+      "krisha": "https://krisha.kz/astana/"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "What is the capital city of Kazakhstan?",
+          "options": ["Astana", "Almaty", "Dubai", "Tokyo"],
+          "correct": "Astana"
+        },
+        {
+          "text": "Which landmark is known for its observation deck with a stunning view?",
+          "options": ["Bayterek Tower", "Eiffel Tower", "Statue of Liberty", "Burj Khalifa"],
+          "correct": "Bayterek Tower"
+        },
+        {
+          "text": "Which of the following is a futuristic shopping mall in Astana?",
+          "options": ["Khan Shatyr Entertainment Center", "The Dubai Mall", "Times Square", "Galleria Vittorio Emanuele II"],
+          "correct": "Khan Shatyr Entertainment Center"
+        },
+        {
+          "text": "What is the approximate price to visit the National Museum of Kazakhstan?",
+          "options": ["$3", "$10", "Free", "$20"],
+          "correct": "$3"
+        },
+        {
+          "text": "Which of these mosques is a famous landmark in Astana?",
+          "options": ["Hazret Sultan Mosque", "Sultan Ahmed Mosque", "Sheikh Zayed Mosque", "Jama Masjid"],
+          "correct": "Hazret Sultan Mosque"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Dubai, UAE",
+    "fullname": "Dubai, United Arab Emirates",
+    "image": "https://i.postimg.cc/KjRmrCB8/dubai-img-1.png",
+    "head_image": "https://i.postimg.cc/h43qLSsL/dubai-head-img.png",
+    "activities": [
+      { "id": 1, "name": "Burj Khalifa", "price": "Tickets start at $43" },
+      { "id": 2, "name": "Dubai Mall", "price": "Free entry; activity prices vary." },
+      { "id": 3, "name": "Palm Jumeirah", "price": "Free entry" },
+      { "id": 4, "name": "Dubai Miracle Garden", "price": "Approximately $14" },
+      { "id": 5, "name": "Dubai Aquarium & Underwater Zoo", "price": "Approximately $33" },
+      { "id": 6, "name": "Global Village", "price": "Around $5" },
+      { "id": 7, "name": "Desert Safari", "price": "Prices start at $50" },
+      { "id": 8, "name": "Dubai Marina", "price": "Free entry" },
+      { "id": 9, "name": "Atlantis Aquaventure Waterpark", "price": "Approximately $75" },
+      { "id": 10, "name": "Dubai Fountain Show", "price": "Free entry" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "Burj Al Arab", "price": "Starts from $1,200 per night" },
+      { "id": 2, "name": "Atlantis The Palm", "price": "Around $650 per night" },
+      { "id": 3, "name": "JW Marriott Marquis", "price": "Approximately $300 per night" },
+      { "id": 4, "name": "Rove Downtown", "price": "Around $100 per night" },
+      { "id": 5, "name": "Premier Inn Dubai", "price": "Starts from $60 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/8s8KZnjS/dubai-activity-1.png",
+      "https://i.postimg.cc/BZdJWSFq/dubai-activity-2.png",
+      "https://i.postimg.cc/pXzRRwQK/dubai-activity-3.png",
+      "https://i.postimg.cc/XYW3Jsxm/dubai-activity-4.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/2SxYBnK6/dubai-accommodation-1.png",
+      "https://i.postimg.cc/Mpz2xvp8/dubai-accommodation-2.png",
+      "https://i.postimg.cc/XYxMv4rB/dubai-accommodation-3.png",
+      "https://i.postimg.cc/LsscYwPC/dubai-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/ae/dubai.html",
+      "airbnb": "https://www.airbnb.com/dubai-uae",
+      "expedia": "https://www.expedia.com/Dubai-Hotels.d1079"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "What is the tallest building in the world located in Dubai?",
+          "options": ["Burj Khalifa", "Eiffel Tower", "Statue of Liberty", "Big Ben"],
+          "correct": "Burj Khalifa"
+        },
+        {
+          "text": "Which shopping mall in Dubai is one of the largest in the world?",
+          "options": ["Dubai Mall", "Mall of America", "Galleria Mall", "The Mall of Emirates"],
+          "correct": "Dubai Mall"
+        },
+        {
+          "text": "What is the name of Dubai's famous artificial archipelago?",
+          "options": ["Palm Jumeirah", "The World", "Dubai Island", "Atlantis"],
+          "correct": "Palm Jumeirah"
+        },
+        {
+          "text": "Which Dubai attraction is a garden with millions of flowers?",
+          "options": ["Dubai Miracle Garden", "Botanical Gardens", "Dubai Garden", "Flower Dome"],
+          "correct": "Dubai Miracle Garden"
+        },
+        {
+          "text": "What is the approximate ticket price for the Dubai Aquarium?",
+          "options": ["$33", "$20", "Free", "$50"],
+          "correct": "$33"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "New-York, USA",
+    "fullname": "New York, United States",
+    "image": "https://i.postimg.cc/j2mt8v4Q/new-york-img-1.png",
+    "head_image": "https://i.postimg.cc/s2QRHb2B/new-york-head-img.png",
+    "activities": [
+      { "id": 1, "name": "Statue of Liberty", "price": "Ferry tickets start at $23" },
+      { "id": 2, "name": "Times Square", "price": "Free entry" },
+      { "id": 3, "name": "Central Park", "price": "Free entry" },
+      { "id": 4, "name": "Empire State Building", "price": "Tickets start at $44" },
+      { "id": 5, "name": "Metropolitan Museum of Art", "price": "General admission $30" },
+      { "id": 6, "name": "Broadway Shows", "price": "Tickets vary, starting at $50" },
+      { "id": 7, "name": "Brooklyn Bridge", "price": "Free entry" },
+      { "id": 8, "name": "9/11 Memorial Museum", "price": "Tickets start at $26" },
+      { "id": 9, "name": "Rockefeller Center", "price": "Tickets start at $38" },
+      { "id": 10, "name": "American Museum of Natural History", "price": "Suggested donation $23" }
+    ],
+    "accommodations": [
+      { "id": 1, "name": "The Plaza Hotel", "price": "Starts from $800 per night" },
+      { "id": 2, "name": "Hilton Garden Inn", "price": "Around $150 per night" },
+      { "id": 3, "name": "The Peninsula New York", "price": "Starts from $700 per night" },
+      { "id": 4, "name": "YOTEL New York", "price": "Approximately $120 per night" },
+      { "id": 5, "name": "Hotel Pennsylvania", "price": "Starts from $90 per night" }
+    ],
+    "activityPhotos": [
+      "https://i.postimg.cc/Vv1Q66WM/new-york-activity-1.png",
+      "https://i.postimg.cc/rsJ6tkfH/new-york-activity-2.png",
+      "https://i.postimg.cc/8ckK9rby/new-york-activity-3.png",
+      "https://i.postimg.cc/HnSZgsZT/new-york-activity-4.png"
+    ],
+    "accommodationPhotos": [
+      "https://i.postimg.cc/pXTcBzrr/new-york-accommodation-1.png",
+      "https://i.postimg.cc/ZKM7snvc/new-york-accommodation-2.png",
+      "https://i.postimg.cc/9Qwx62Gj/new-york-accommodation-3.png",
+      "https://i.postimg.cc/vmRPMKzx/new-york-accommodation-4.png"
+    ],
+    "links": {
+      "booking": "https://www.booking.com/city/us/new-york.html",
+      "airbnb": "https://www.airbnb.com/new-york-usa",
+      "expedia": "https://www.expedia.com/New-York-Hotels.d178293"
+    },
+    "quiz": {
+      "questions": [
+        {
+          "text": "Which landmark in New York is a gift from France?",
+          "options": ["Statue of Liberty", "Brooklyn Bridge", "Empire State Building", "Central Park"],
+          "correct": "Statue of Liberty"
+        },
+        {
+          "text": "Which New York attraction is located at the intersection of Broadway and Seventh Avenue?",
+          "options": ["Times Square", "Central Park", "Brooklyn Bridge", "Wall Street"],
+          "correct": "Times Square"
+        },
+        {
+          "text": "Which museum in New York has a suggested donation for entry?",
+          "options": ["American Museum of Natural History", "The Louvre", "Guggenheim Museum", "MoMA"],
+          "correct": "American Museum of Natural History"
+        },
+        {
+          "text": "What is the ticket price for the Empire State Building?",
+          "options": ["$44", "$30", "Free", "$60"],
+          "correct": "$44"
+        },
+        {
+          "text": "Which New York attraction features live theatrical performances?",
+          "options": ["Broadway Shows", "Central Park", "Brooklyn Bridge", "Rockefeller Center"],
+          "correct": "Broadway Shows"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Berlin, GER",
+    "image": "https://i.postimg.cc/y6FM21YC/berlin-img-1.png"
+  },
+  {
+    "id": 5,
+    "name": "Paris, FRC",
+    "image": "https://i.postimg.cc/PrTgjgPp/paris-img-1.png"
+  },
+  {
+    "id": 6,
+    "name": "Tokyo, JPN",
+    "image": "https://i.postimg.cc/MpGgc10z/tokyo-img-1.png"
+  },
+  {
+    "id": 7,
+    "name": "Hong-Kong, CHN",
+    "image": "https://i.postimg.cc/yd0GqjKy/hong-kong-img-1.png"
+  },
+  {
+    "id": 8,
+    "name": "Singapore",
+    "image": "https://i.postimg.cc/kGchG5BV/singapore-img-1.png"
+  },
+  {
+    "id": 9,
+    "name": "Almaty, KZ",
+    "image": "https://i.postimg.cc/dt5xKDbp/almaty-img-1.png"
+  }
+]
